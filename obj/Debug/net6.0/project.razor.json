@@ -16338,8 +16338,18 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\HP\\Desktop\\imp\\TP\\hd\\ContosoUniversity\\Pages\\Departments\\Index.cshtml",
+      "TargetPath": "Pages\\Departments\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\HP\\Desktop\\imp\\TP\\hd\\ContosoUniversity\\Pages\\Courses\\Create.cshtml",
       "TargetPath": "Pages\\Courses\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\HP\\Desktop\\imp\\TP\\hd\\ContosoUniversity\\Pages\\Departments\\Details.cshtml",
+      "TargetPath": "Pages\\Departments\\Details.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -16390,6 +16400,21 @@
     {
       "FilePath": "c:\\Users\\HP\\Desktop\\imp\\TP\\hd\\ContosoUniversity\\Pages\\Instructors\\Delete.cshtml",
       "TargetPath": "Pages\\Instructors\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\HP\\Desktop\\imp\\TP\\hd\\ContosoUniversity\\Pages\\Departments\\Create.cshtml",
+      "TargetPath": "Pages\\Departments\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\HP\\Desktop\\imp\\TP\\hd\\ContosoUniversity\\Pages\\Departments\\Edit.cshtml",
+      "TargetPath": "Pages\\Departments\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\HP\\Desktop\\imp\\TP\\hd\\ContosoUniversity\\Pages\\Departments\\Delete.cshtml",
+      "TargetPath": "Pages\\Departments\\Delete.cshtml",
       "FileKind": "mvc"
     },
     {
